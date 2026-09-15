@@ -1,0 +1,12 @@
+PROMPT:
+
+Design a Student Details feature for an Online Course Enrollment System where the user can enter and manage basic student information such as Student ID, Name, Age, Gender, Email, Phone Number, and Course. The system should allow the user to add, view, update, and search student details.
+
+ALGORITHM:
+
+Start
+Enter Student ID, Name, Age, Gender, Email and Phone Number.
+Validate the student details.
+If details are valid, save the student information.
+Display the student details.
+Stop.

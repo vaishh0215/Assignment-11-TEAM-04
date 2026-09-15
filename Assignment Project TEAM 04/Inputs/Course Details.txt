@@ -1,0 +1,12 @@
+PROMPT:
+
+Design a Course Details feature for an Online Course Enrollment System where users can view available courses and their information, such as Course ID, Course Name, Course Description, Instructor, Duration, Fees, and Available Seats. The system should allow users to search and view course details.
+
+ALGORITHM:
+
+Start
+Enter or select the Course ID.
+Search for the course.
+If the course is available, display Course Name, Instructor, Duration, Fees and Available Seats.
+If the course is not available, display "Course Not Found".
+Stop.

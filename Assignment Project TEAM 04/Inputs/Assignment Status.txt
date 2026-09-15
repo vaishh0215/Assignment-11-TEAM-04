@@ -1,0 +1,17 @@
+PROMPT:
+
+Design an Assignment Status feature for an Online Course Enrollment System where students can check the status of their assignments. The system should display whether an assignment is Submitted, Not Submitted, Under Review, or Evaluated, along with marks and feedback when available.
+
+ALGORITHM:
+
+Start
+Enter Student ID.
+Select the course.
+Select the assignment.
+Check the assignment submission record.
+If submitted, display "Submitted".
+Check whether the assignment has been evaluated.
+If evaluated, display marks and feedback.
+Otherwise, display "Under Review".
+If not submitted, display "Not Submitted".
+Stop.

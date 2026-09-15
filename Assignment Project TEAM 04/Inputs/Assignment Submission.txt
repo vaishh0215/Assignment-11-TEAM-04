@@ -1,0 +1,16 @@
+PROMPT:
+
+Design an Assignment Submission feature for an Online Course Enrollment System where students can view assignments for their enrolled courses and submit an assignment before the deadline. The system should accept the submission and display a confirmation message.
+
+ALGORITHM:
+
+Start
+Enter Student ID.
+Select the enrolled course.
+Select the assignment.
+Check whether the submission deadline has passed.
+If the deadline has not passed, submit the assignment.
+Record the submission date and time.
+Display "Assignment Submitted Successfully".
+Otherwise, display "Submission Deadline Passed".
+Stop.

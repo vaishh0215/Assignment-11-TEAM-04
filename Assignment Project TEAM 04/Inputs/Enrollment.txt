@@ -1,0 +1,17 @@
+PROMPT:
+
+Design a Course Enrollment feature for an Online Course Enrollment System where a student can select an available course and enroll in it. The system should check whether the student and course are valid, confirm seat availability, complete the enrollment, and display the enrollment status.
+
+ALGORITHM:
+
+Start
+Enter Student ID.
+Enter/select Course ID.
+Check whether the student exists.
+Check whether the selected course is available.
+Check whether seats are available.
+If all conditions are satisfied, enroll the student.
+Update the available seats.
+Display "Enrollment Successful".
+Otherwise, display the appropriate error message.
+Stop.
